@@ -7,8 +7,8 @@ pricing_table
 
 Responsive Pricing Table Using HTML & CSS
 
-![](/assets/screen_1.png)
+![](/assets/screen_1.png "intial")
 
-![](/assets/screen_2.png)
+![](/assets/screen_2.png "search screen")
 
-![](/assets/screen_3.png)
+![](/assets/screen_3.png "typing search")
