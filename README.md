@@ -9,4 +9,4 @@ Responsive Pricing Table Using HTML & CSS
 
 ![](/assets/screen_1.gif)
 
-![](/assets/screen_2.png)
+![](/assets/screen_2.gif)
